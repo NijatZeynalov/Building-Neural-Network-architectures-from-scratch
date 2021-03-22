@@ -1,4 +1,4 @@
-# Building Neural Network architectures from scratch and training with Distribution Strategies
+# Building Neural Network architectures from scratch with TensorFlow
 I have built simple versions of some Neural Network architectures (Alexnet, Inception-v1, Resnet-18, Vgg-16) from scratch and trained them with Distribution Strategies by using TensorFlow.
 
 ## 1. AlexNet (2012)
